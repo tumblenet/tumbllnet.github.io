@@ -1,2 +1,2 @@
-# TumbleNet Search
-[![Build Status](https://travis-ci.org/tumblenet/Tumble-NetSearch.svg)](https://travis-ci.org/tumblenet/Tumble-NetSearch)
+# tumblenet.github.io
+[![Build Status](https://travis-ci.org/tumblenet/tumblenet.github.io.svg)](https://travis-ci.org/tumblenet/tumblenet.github.io)
