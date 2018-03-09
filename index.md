@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 - [Tumble Network](http://github.com/tumblenet)
